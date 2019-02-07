@@ -1,0 +1,36 @@
+<Page loaded="loaded" class="page">
+    <ActionBar title="THE 16 PERSONALITIES" class="action-bar">
+        <NavigationButton text="Go Back" android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
+    </ActionBar>
+    <ScrollView class="content">
+        <StackLayout padding="5%">
+            <Label class="topic" textAlignment="center" color="black" textWrap="true" text="Presenting: Your Myers-Briggs Type Indicator According to Your Zodiac Sign:"/>
+            <Label color="red" text="Aires | ESFJ" class="head"/>
+            <Label textWrap="true" text="Aires and ESFJs are independent. They’re not afraid to forge their own paths, and people tend to follow them as they do. They attract the attention and admiration of those around them and were likely the most popular kids in school. Their greatest challenge is listening to the perspectives of others."/>
+            <Label color="red" text="Taurus | ISFJ | ISTP" class="head"/>
+            <Label textWrap="true" text="Tauruses, ISFJs and ISTPs have a lot in common. They’re analytical, rational and dependable. They’re the kind of people who will always lend a hand, and they’re exactly who you’d want in your corner during a conflict. They’ll defend you until the bitter end no matter what, which is also their greatest challenge–once they’ve made up their mind, they have a hard time changing it."/>
+            <Label color="red" text="Gemini | INTP | ISFP" class="head"/>
+            <Label textWrap="true" text="Geminis, INTPs and ISFPs are counterparts in creativity. They’re always ready to innovate and explore new territory, but they don’t typically clue others into their plans. This can sometimes lead to misunderstandings."/>
+            <Label color="red" text="Cancer | INFP" class="head"/>
+            <Label textWrap="true" text="Cancers and INFPs are guided by their gut feelings rather than observed facts. They’re highly intuitive with great emotional intelligence and they’re adept at reading others. Though they can readily and accurately interpret the emotions of others, they tend to be a bit guarded with their own interior selves. If left unchecked, this can prevent Cancers and INFPs from connecting with those around them."/>
+            <Label color="red" text="Leo | ESTP" class="head"/>
+            <Label textWrap="true" text="Nothing can tire out Leos and ESTPs. Sometimes it may seem like they have limitless energy and that, combined with their razor sharp intelligence, makes them a force to be reckoned with. It also means they’re at risk of overpowering the voices of those who are more quiet, which is something they must alway be mindful of."/>
+            <Label color="red" text="Virgo | ENFJ" class="head"/>
+            <Label textWrap="true" text="They bring an intensity to everything they do and are incredibly hard-workers. They’re altruistic and always apply a 360 view to any situation. They hold themselves and others to high, sometimes unattainable, standards, which may alienate those around them if they’re not careful."/>
+            <Label color="red" text="Libra | ENTJ" class="head"/>
+            <Label textWrap="true" text="Libras and ENTJs are diplomatic leaders filled with big ideas.  When they’re able to bring these ideas to fruition, which isn’t all the time, they’re capable of creating something truly amazing."/>
+            <Label color="red" text="Scorpio | ENFP" class="head"/>
+            <Label textWrap="true" text="Passion is the key word that defines Scorpios and ENFPs. It’s layered into everything they do and is their greatest motivator. They’re friendly because they have a passion for socializing and they’re highly emotional because everything they feel is amplified by the heat of a fire burning within. They may err towards the dramatics sometimes, but the level of enthusiasm they bring to any situation is unparalleled."/>
+            <Label color="red" text="Sagittarius | ENTP | ESFP" class="head"/>
+            <Label textWrap="true" text="Sagittariuses, ENTPs and ESFPs are extroverts who thrive on social interaction. It doesn’t matter whether they’re having a pleasant chat, a deep conversation, or a spirited and even antagonistic debate, as long as they’re engaging with others, they’re energized. They just have to be careful not to say anything they can’t take back."/>
+            <Label color="red" text="Capricorn | ISTJ" class="head"/>
+            <Label textWrap="true" text="Capricorns and ISTJs prefer to make decisions that have already be tested out by themselves or others. They like common sense, tradition, and familiarity, and they’re very self-disciplined. They’re serious and responsible people who seem to have an endless supply of knowledge that they’re not afraid to use to help their friends."/>
+            <Label color="red" text="Aquarius | ESTJ" class="head"/>
+            <Label textWrap="true" text="Everything they do, they do deeply. They think and love with their whole being and are capable of bringing together entire communities by creating a feeling of camaraderie. They can foster a sense of unity among even strangers."/>
+            <Label color="red" text="Pisces | INTJ | INFJ" class="head"/>
+            <Label textWrap="true" text="They have a well-developed sense of empathy and are always willing to advocate for those in need. Their moral compass is strong and they lean towards idealism. Even though they have stars in their eyes, their feet are also planted on the ground. They’re intelligent with fast-moving minds, and their presence is often a comfort.  They just have to be careful not to burn themselves out."/>
+            <Label class="foot" textWrap="true" text="How did I do? Does your MBTI, your zodiac sign, and your personality traits all perfectly line up to encapsulate your essence? Is any of this real?"/>
+            <Label class="foot" textWrap="true" text="At the end of the day, if it helps you find your tribe, I’m not sure that last part even matters."/>
+        </StackLayout>
+    </ScrollView>
+</Page>

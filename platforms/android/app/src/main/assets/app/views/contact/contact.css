@@ -1,0 +1,27 @@
+
+.contact {
+    border-radius: 20;
+}
+
+.stack {
+    padding: 10;
+    color: gray;
+}
+
+.title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 10;
+}
+
+.name {
+    line-height: 10px;
+    text-align: left;
+}
+
+.email {
+    color: blue;
+    text-decoration: underline;
+    margin-left: 10;
+    margin-bottom: 10;
+}

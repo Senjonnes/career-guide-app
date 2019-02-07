@@ -1,0 +1,13 @@
+<Page loaded="pageLoaded" actionBarHidden="true" id="page">
+    <ActionBar title="Career Guidance" class="action-bar"></ActionBar>
+    <ScrollView backgroundColor="white" height="70%" width="75%" horizontalAlignment="center" class="about">
+        <StackLayout class="stack">
+            <Label class="title" text="ABOUT CAREER GUIDE"/>
+            <Label class="body" textWrap="true" text="A career snags well over 30% percent of an individual’s life; it is therefore apparent that making a decision in this regards is extremely crucial. The decision making process however could prove to be a rather Herculean task. Developed by a team of software developer trainees at the Zinox Institute of Technology, this app which is based on the proven Carl Jung Type Indicator helps determine a profession you’d best fit into based on your personality and hence your peculiar abilities."/>
+            <Label text="TEAM" class="team"/>
+            <Label textWrap="true" class="name" text="Odeyemi Oluwaseun&#xA;Opanubi Korede&#xA;Adeniya Nike&#xA;Asaolu Moyosore&#xA;Adebowale Adedotun&#xA;John Oluwadara"/>
+            <Label text="Copyright &#169;2018 - 2019 ZIT" class="right"/>
+            <Label text="All rights reserved" textAlignment="center" color="blue"/>
+        </StackLayout>
+    </ScrollView>
+</Page>

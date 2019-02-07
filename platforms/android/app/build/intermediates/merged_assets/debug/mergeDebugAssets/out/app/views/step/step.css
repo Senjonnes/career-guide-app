@@ -1,0 +1,29 @@
+
+.page {
+    background-color: white;
+    color: gray;
+    font-family: ArimaMadurai-Light;
+}
+
+.content {
+    background-color: white;
+}
+
+.action-bar {
+    font-family: Itim-Regular;
+}
+
+.head {
+    padding-top: 15;
+    font-family: Aladin-Regular;
+    font-size: 24px;
+}
+
+.topic {
+    font-size: 24px;
+    font-family: Aladin-Regular;
+}
+
+.foot {
+    padding-top: 15;
+}

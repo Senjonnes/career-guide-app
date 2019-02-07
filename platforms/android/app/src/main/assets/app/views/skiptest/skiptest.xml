@@ -1,0 +1,14 @@
+<Page loaded="pageLoaded" actionBarHidden="true" id="page">
+    <ActionBar title="Career Guidance" class="action-bar"></ActionBar>
+    <StackLayout backgroundColor="white" height="60%" width="90%" textAlignment="center" horizontalAlignment="center" class="testPage">
+        <GridLayout rows="auto, auto" columns="auto, *">
+            <Image row="0" colSpan="0" class="start_img" src="~/images/cg.png"/>
+            <Label row="0" col="1" text="CiGi Says" horizontalAlignment="center" class="si-gi"/>
+            <Label row="1" col="1" text="Select your Personality" textAlignment="center" class="follow" textWrap="true"/>
+        </GridLayout>
+        <StackLayout class="hr-light m-10" width="98%" marginTop="-2"></StackLayout>
+        <StackLayout class="list">
+            <ListView items="{{ personalities }}" id="list" itemTap="proceed"/>
+        </StackLayout>
+    </StackLayout>
+</Page>

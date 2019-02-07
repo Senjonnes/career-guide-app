@@ -1,0 +1,26 @@
+<Page loaded="pageLoaded" unloaded="pageUnloaded" actionBarHidden="true" id="page">
+    <ActionBar title="Career Guidance" class="action-bar"></ActionBar>
+    
+        <GridLayout rows="auto, auto" verticalAlignment="center">
+            <StackLayout row="0" backgroundColor="white" height="65%" width="90%" horizontalAlignment="center" class="testPage">
+                <GridLayout rows="auto, auto" columns="auto, *">
+                    <Image row="0" colSpan="0" class="start_img" src="~/images/cg.png"/>
+                    <Label row="0" col="1" text="CiGi Personaility Test" horizontalAlignment="center" class="si-gi"/>
+                    <Label row="1" col="1" text="Select the option that best describes you" textAlignment="center" class="follow" textWrap="true"/>
+                </GridLayout>
+                <StackLayout class="hr-light m-10" width="98%" marginTop="-2"></StackLayout>
+
+                <StackLayout class="question">
+                    <Label text="{{ q }}" textWrap="true"/>
+                </StackLayout>
+                <StackLayout isUserInteractionEnabled="{{ !busy }}" class="optionA" tap="onTap" id="A">
+                    <Label text="{{ opt1 }}" color="red" class="opt" textWrap="true"/>
+                </StackLayout>
+                <StackLayout isUserInteractionEnabled="{{ !busy }}" class="optionB" tap="onTap" id="B">
+                    <Label text="{{ opt2 }}" color="red" class="opt" textWrap="true"/>
+                </StackLayout>
+            </StackLayout>
+            <ActivityIndicator rowSpan="1" busy="{{ busy }}" width="60" height="60" color="skyblue"></ActivityIndicator>
+        </GridLayout>
+    
+</Page>

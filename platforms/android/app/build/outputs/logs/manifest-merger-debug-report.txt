@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\e2a56bd4890ea13f5cca5c3535912101\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\502585e612d1a25fe5193d28f121a13b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\04c818fa835a49ca537b22f5d4e7010f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\315c670e57e8f909cbb3111c14ec0b6f\AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\0a18897d42725b6cd9c66849643c018d\AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\b0e578ffa7a4da31a3e9365d60118207\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\fa29722d55bd48151622725185e68052\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\efca4903bacd22b488ba7f0b142c56e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3cc616c43b5b16e17a463a93ad8536c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ec1ac93e94ef0fe85539c328e35b0c71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5b55ea4ecb23a9759ee3495dec30e1a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\d63de7c29198e3d51e0afd41b55d0fcf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d404cc89bd3b36dccce02fb8e7fd7aff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\9c15ce603f0fddbe2f320de0dda27cf9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7ee1ddc691aa871f11b962807fa5b367\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e06ef66cc5acf32597b70a06f54d5940\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1636ec25a750f6d3813785333e9bf97a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2fcd78871412d1585994a26e398e302c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\eb6ffc3b38330fcb4b140baaf0d58e55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\171249f2a662da016ae13b9279a092cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\eadbc3a8b261e3a77a82f15f36754c74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\791cae89708bca9d2f5467b4797cecc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\24e30e413931b084b62288705d176bf8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a40668261cb741e878225542015ff816\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ba17b12f8af331d9857f1d832917c145\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\a4a0c476f5c29e91d06962ed3709707c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4f55060313d8a8a53dd7b52011613620\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1601e702eb2770dc3cbeb0e08f6886d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c7912caeff437297ff3452b714516f90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9aa2319f136f9cd9dbb5725e71d5a72c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\31a2188f05f1c53e68f98972a58a63a2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cab7ae6a3ea7f2be07a3adc81887cd87\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2203f6c86d68b282a7d292d6ab773fe1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\cceac86e4a9508bddce090b02da7f6e7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0a1ab9fab251d02cb18ee29a5a9428f6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:3:2-43
+		INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\e2a56bd4890ea13f5cca5c3535912101\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\e2a56bd4890ea13f5cca5c3535912101\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\502585e612d1a25fe5193d28f121a13b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\502585e612d1a25fe5193d28f121a13b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\04c818fa835a49ca537b22f5d4e7010f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\04c818fa835a49ca537b22f5d4e7010f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\315c670e57e8f909cbb3111c14ec0b6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\315c670e57e8f909cbb3111c14ec0b6f\AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\0a18897d42725b6cd9c66849643c018d\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\0a18897d42725b6cd9c66849643c018d\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\b0e578ffa7a4da31a3e9365d60118207\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\b0e578ffa7a4da31a3e9365d60118207\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\fa29722d55bd48151622725185e68052\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\fa29722d55bd48151622725185e68052\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\efca4903bacd22b488ba7f0b142c56e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\efca4903bacd22b488ba7f0b142c56e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3cc616c43b5b16e17a463a93ad8536c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3cc616c43b5b16e17a463a93ad8536c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ec1ac93e94ef0fe85539c328e35b0c71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ec1ac93e94ef0fe85539c328e35b0c71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5b55ea4ecb23a9759ee3495dec30e1a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5b55ea4ecb23a9759ee3495dec30e1a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\d63de7c29198e3d51e0afd41b55d0fcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\d63de7c29198e3d51e0afd41b55d0fcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d404cc89bd3b36dccce02fb8e7fd7aff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d404cc89bd3b36dccce02fb8e7fd7aff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\9c15ce603f0fddbe2f320de0dda27cf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\9c15ce603f0fddbe2f320de0dda27cf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7ee1ddc691aa871f11b962807fa5b367\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7ee1ddc691aa871f11b962807fa5b367\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e06ef66cc5acf32597b70a06f54d5940\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e06ef66cc5acf32597b70a06f54d5940\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1636ec25a750f6d3813785333e9bf97a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1636ec25a750f6d3813785333e9bf97a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2fcd78871412d1585994a26e398e302c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2fcd78871412d1585994a26e398e302c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\eb6ffc3b38330fcb4b140baaf0d58e55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\eb6ffc3b38330fcb4b140baaf0d58e55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\171249f2a662da016ae13b9279a092cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\171249f2a662da016ae13b9279a092cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\eadbc3a8b261e3a77a82f15f36754c74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\eadbc3a8b261e3a77a82f15f36754c74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\791cae89708bca9d2f5467b4797cecc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\791cae89708bca9d2f5467b4797cecc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\24e30e413931b084b62288705d176bf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\24e30e413931b084b62288705d176bf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a40668261cb741e878225542015ff816\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a40668261cb741e878225542015ff816\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ba17b12f8af331d9857f1d832917c145\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ba17b12f8af331d9857f1d832917c145\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\a4a0c476f5c29e91d06962ed3709707c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\a4a0c476f5c29e91d06962ed3709707c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4f55060313d8a8a53dd7b52011613620\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4f55060313d8a8a53dd7b52011613620\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1601e702eb2770dc3cbeb0e08f6886d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1601e702eb2770dc3cbeb0e08f6886d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c7912caeff437297ff3452b714516f90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c7912caeff437297ff3452b714516f90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9aa2319f136f9cd9dbb5725e71d5a72c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9aa2319f136f9cd9dbb5725e71d5a72c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\31a2188f05f1c53e68f98972a58a63a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\31a2188f05f1c53e68f98972a58a63a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cab7ae6a3ea7f2be07a3adc81887cd87\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cab7ae6a3ea7f2be07a3adc81887cd87\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2203f6c86d68b282a7d292d6ab773fe1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2203f6c86d68b282a7d292d6ab773fe1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\cceac86e4a9508bddce090b02da7f6e7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\cceac86e4a9508bddce090b02da7f6e7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0a1ab9fab251d02cb18ee29a5a9428f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0a1ab9fab251d02cb18ee29a5a9428f6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+	android:targetSdkVersion
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:21:2-43:16
+MERGED from [com.android.support:design:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\04c818fa835a49ca537b22f5d4e7010f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\04c818fa835a49ca537b22f5d4e7010f\AndroidManifest.xml:22:5-20
+MERGED from [:widgets-release:] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\b0e578ffa7a4da31a3e9365d60118207\AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\b0e578ffa7a4da31a3e9365d60118207\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\24e30e413931b084b62288705d176bf8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\24e30e413931b084b62288705d176bf8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a40668261cb741e878225542015ff816\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a40668261cb741e878225542015ff816\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Odeyemi Kehinde\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\24e30e413931b084b62288705d176bf8\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:icon
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:allowBackup
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:theme
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:28:3-41:14
+	android:screenOrientation
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:29:4-40
+	android:label
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:31:4-49
+	android:configChanges
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:32:4-65
+	android:theme
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:33:4-44
+	android:name
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:30:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:35:4-87
+	android:resource
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:35:50-84
+	android:name
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:35:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:37:4-40:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:38:5-57
+	android:name
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:38:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:39:5-65
+	android:name
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:39:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:42:3-57
+	android:name
+		ADDED from C:\Users\Odeyemi Kehinde\Career Guidance\platforms\android\app\src\main\AndroidManifest.xml:42:13-55

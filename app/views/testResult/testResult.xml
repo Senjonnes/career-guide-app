@@ -1,0 +1,23 @@
+<Page loaded="pageLoaded" actionBarHidden="true" id="page">
+    <ActionBar title="Career Guidance" class="action-bar"></ActionBar>
+    <StackLayout color="black" backgroundColor="white" height="65%" width="90%" horizontalAlignment="center" class="testPage">
+        <GridLayout rows="auto, auto" columns="auto, *">
+            <Image row="0" colSpan="0" class="start_img" src="~/images/cg.png"/>
+            <Label row="0" col="1" text="YOUR RESULT" horizontalAlignment="center" class="si-gi"/>
+        </GridLayout>
+        <StackLayout class="hr-light m-10" width="98%" marginTop="-2"></StackLayout>
+        <StackLayout>
+            <Label  text="Congratulations !!!" textAlignment="center" class="follow" textWrap="true"/>
+            <Label text="{{ username }}" textAlignment="center" color="red" fontSize="24px"/>
+            <Label text="Your personality test result is" textAlignment="center" color="blue"/>
+            <Label text="{{ result }}" textAlignment="center" fontSize="72" color="gold"/>
+            <Button class="buttons" text="<< Determine Your Career PATH >>" tap="determine"/>
+            <GridLayout rows="auto" columns="*, auto, *" horizontalAlignment="center">
+                <StackLayout row="0" col="0" class="hr-light m-10" width="40%"></StackLayout>
+                <Label row="0" col="1" text="OR" textAlignment="center" color="gray"/>
+                <StackLayout textAlignment="right" row="0" col="2" class="hr-light m-10" width="40%"></StackLayout>
+            </GridLayout>
+            <Button class="buttons" text="<< Skip >>" tap="skip"/>
+        </StackLayout>                       
+    </StackLayout>
+</Page>

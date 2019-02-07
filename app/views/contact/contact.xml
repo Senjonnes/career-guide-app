@@ -1,0 +1,22 @@
+<Page loaded="pageLoaded" actionBarHidden="true" id="page">
+    <ActionBar title="Career Guidance" class="action-bar"></ActionBar>
+    <ScrollView backgroundColor="white" height="70%" width="75%" horizontalAlignment="center" class="contact">
+        <StackLayout class="stack">
+            <Label class="title" text="CONTACT US"/>
+            <Label textWrap="true" class="name" text="- Odeyemi Oluwaseun"/>
+            <Label textWrap="true" class="email" text="odeyemioluwaseun.j@gmail.com"/>
+            <Label textWrap="true" class="name" text="- Opanubi Korede"/>
+            <Label textWrap="true" class="email" text="opa.kore@gnail.com"/>
+            <Label textWrap="true" class="name" text="- Adeniya Nike"/>
+            <Label textWrap="true" class="email" text="folahadenikemi@gmail.com"/>
+            <Label textWrap="true" class="name" text="- Asaolu Moyosore"/>
+            <Label textWrap="true" class="email" text="moyosore.asaolu@yahoo.com"/>
+            <Label textWrap="true" class="name" text="- Adebowale Adedotun"/>
+            <Label textWrap="true" class="email" text="adedotunadebowale3@gmail.com"/>
+            <Label textWrap="true" class="name" text="- John Oluwadara"/>
+            <Label textWrap="true" class="email" text="oluwadarajohn@gmail.com"/>
+            <Label textWrap="true" class="name" text="- Feyisetan Oluwaseun"/>
+            <Label textWrap="true" class="email" text="feyisetanoluwaseun@gmail.com"/>
+        </StackLayout>
+    </ScrollView>
+</Page>

@@ -1,0 +1,85 @@
+@import "nativescript-theme-core/css/sky.css";
+
+Page {
+    color: gray;
+}
+
+.testPage {
+    border-radius: 20;
+    background-image: url("~/images/dest.png"), image-set(fill);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+}
+
+.start_img {
+    height: 120px;
+    width: 120px;
+}
+
+.si-gi {
+    margin-top: 30;
+    margin-left: -40;
+    font-size: 20px;
+    margin-bottom: 10;
+    color: blue;
+}
+
+.description, .strength, .weakness, .career {
+    font-size: 16px;
+    color: rgb(221, 101, 21);
+}
+
+.strength, .weakness, .career {
+    padding-left: 10;
+}
+
+.description, .personalityDescription {
+    text-align: center;
+}
+
+.body, .personalityDescription {
+    margin: 5;
+    font-size: 14px;
+}
+
+.body {
+    padding-left: 10;
+}
+
+.buttons {
+    margin: 10; 
+    background-color: rgb(238, 98, 122);
+    border-radius: 30;
+    color: #ffffff;
+    width: 40%;
+    height: 10%;
+    padding: 0;
+    font-size: 14px;
+}
+
+.careerPathTitle {
+    color: blue;
+    text-align: center;
+    font-size: 20px;
+}
+
+.jobName {
+    padding-left: 10;
+    color: black;
+}
+
+.message {
+    border-radius: 10;
+    background-image: url("~/images/button.png"), image-set(fill);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    color: rgb(8, 77, 77);
+}
+
+.message2 {
+    border-bottom-right-radius:20;
+    border-top-left-radius: 20;
+    margin-bottom: 10;
+}

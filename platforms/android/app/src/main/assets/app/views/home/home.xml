@@ -1,0 +1,87 @@
+<Page loaded="pageLoaded" unloaded="pageUnloaded" id="page"> 
+    <Page.actionBar>
+        <ActionBar color="white" class="action-bar" height="16%" title="Welcome User">
+            <StackLayout horizontalAlignment="left">
+                <Label text="Career Guide" fontSize="24" class="title" />
+                <GridLayout rows= "*" columns="auto, *" ios:horizontalAlignment="center" android:horizontalAlignment="left"> 
+                    <!-- <Label row="0" colSpan="0" text="&#xf2bd;" color="white" class="action-image" fontSize="80"/> -->
+                    <Image row="0" colSpan="0" src="~/images/cg.png" class="action-image" tap="cigi"/>
+                    <StackLayout row="0" col="1">
+                        <Label fontSize="20" text="{{ username }}"  class="action-label"/>
+                        <Label fontSize="14" text="I'm CiGi and I'll be walking you through the career path" textWrap="true"  class="action-intro"/>
+                    </StackLayout>
+                </GridLayout>
+            </StackLayout>
+            <ActionBar.actionItems color="white">
+                <ActionItem android.position="popup" text="Contact Us" tap="contact"/>
+                <ActionItem android.position="popup" text="About" tap="about"/>
+                <ActionItem android.position="popup" text="{{LLS}}" tap="{{LLSFunction}}"/>
+            </ActionBar.actionItems>
+        </ActionBar>
+    </Page.actionBar>
+    <TabView selectedTabTextColor="white" tabBackgroundColor="darkcyan" androidSelectedTabHighlightColor="yellow" color="white">
+        <TabViewItem title="Career Path">
+            <StackLayout>
+                <StackLayout>
+                    <GridLayout rows="auto" columns="*, *">
+                        <StackLayout row="0" col="0" tap="takeTest" id="button1" class="button1">
+                            <Image src="~/images/taketest.png" class="link"/>
+                            <Label text="Take Test" class="label"/>
+                            <Label text="Participate in personality test and unveil your career path." textWrap="true" class="extra"/>
+                        </StackLayout>
+                        <StackLayout row="0" col="2" tap="skipTest" class="button2">
+                            <Image src="~/images/skiptest.png" class="link"/>
+                            <Label text="Skip Test" class="label"/>
+                            <Label text="Do you know your personality?&#xA;Skip test and find out your career path." textWrap="true" class="extra"/>
+                        </StackLayout>
+                    </GridLayout>
+                    <StackLayout class="quote">
+                        <Label text="You miss 100% of the shots you don’t take.&#xA;– Wayne Gretzky -" textWrap="true" textAlignment="center"/>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+        </TabViewItem>
+        <TabViewItem title="Digest">
+            <ScrollView color="gray">
+                <GridLayout rows="auto, auto, auto, auto" columns="auto">
+                    <StackLayout row="0" col="0" class="notes" tap="personalities">
+                        <Label color="red" text="THE 16 PERSONALITIES"/>
+                            <GridLayout rows= "*" columns="auto, *" ios:horizontalAlignment="center" android:horizontalAlignment="left">
+                                <Image row="0" col="0" src="res://personalities"/>
+                                <StackLayout row="0" col="1">
+                                    <Label fontSize="14" text="Aires and ESFJs are independent. They’re not afraid to forge their own paths, and people tend to follow them as they do. They attract the attention and admiration of those around them and were likely.." textWrap="true"  class="action-intro" />
+                                </StackLayout>
+                            </GridLayout>
+                    </StackLayout>
+                    <StackLayout row="1" col="0" class="notes" tap="step">
+                        <Label color="red" text="THE BIG BOLD STEP"/>
+                        <GridLayout rows= "*" columns="auto, *" ios:horizontalAlignment="center" android:horizontalAlignment="left">
+                            <Image row="0" col="0" src="res://step"/>
+                            <StackLayout row="0" col="1">
+                                <Label fontSize="14" text="Take test and Match your personality Login for best experience" textWrap="true"  class="action-intro" />
+                            </StackLayout>
+                        </GridLayout>
+                    </StackLayout>
+                    <StackLayout row="2" col="0" class="notes" backgroundColor="white" tap="career">
+                        <Label color="red" text="20 CAREER GUIDES"/>
+                        <GridLayout rows= "*" columns="auto, *" ios:horizontalAlignment="center" android:horizontalAlignment="left">
+                            <Image row="0" col="0" src="res://career"/>
+                            <StackLayout row="0" col="1">
+                                <Label fontSize="14" text="Take test and Match your personality Login for best experience" textWrap="true"  class="action-intro" />
+                            </StackLayout>
+                        </GridLayout>
+                    </StackLayout>
+                    <StackLayout row="3" col="0" class="notes" backgroundColor="white" tap="future">
+                        <Label color="red" text="SHAPING YOUR FUTURE"/>
+                        <GridLayout rows= "*" columns="auto, *" ios:horizontalAlignment="center" android:horizontalAlignment="left">
+                            <Image row="0" col="0" src="res://future" class="img-rounded p-l-15 p-r-15 p-t-15"/>
+                            <StackLayout row="0" col="1">
+                                <Label fontSize="14" text="Take test and Match your personality Login for best experience" textWrap="true"  class="action-intro" />
+                            </StackLayout>
+                        </GridLayout>
+                    </StackLayout>
+                </GridLayout>
+            </ScrollView>
+        </TabViewItem>
+    </TabView>
+</Page>

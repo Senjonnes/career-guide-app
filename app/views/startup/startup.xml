@@ -1,0 +1,12 @@
+<Page loaded="pageLoaded" class="page-layout" unloaded="pageUnloaded" actionBarHidden="true" id="page">
+    <ActionBar title="Career Guidance" class="action-bar"></ActionBar>
+    <StackLayout class="fade-in">
+        <Button class="skip" text="SKIP >>" textWrap="true" horizontalAlignment="right" textAlignment="left" tap="skip"></Button>
+        <Image class="start_img" src="~/images/project_logo.png"/>
+        <Label class="welcome" text="Welcome" horizontalAlignment="center"/>
+        <StackLayout height="150">
+            <Button text="Create Account" width="90%" class="buttons" tap="create"/>
+            <Button text="Login" width="90%" tap="login" class="buttons"/>
+        </StackLayout>
+    </StackLayout>
+</Page>

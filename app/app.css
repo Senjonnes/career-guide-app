@@ -1,0 +1,31 @@
+/* @import "nativescript-theme-core/css/sky.css"; */
+
+/* Your CSS goes here */
+
+
+Page {
+    background-image: url("~/images/page.png"), image-set(fill);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    font-size: 17;
+    font-family: Itim-Regular;
+    color: white;
+}
+
+Button {
+    border-radius: 10;
+    color: black; font-size: 18; vertical-align: middle;
+    width: 80%;
+}
+
+ActionBar {
+    font-family: Itim-Regular;
+    background-color:darkcyan;
+    color: white;
+}
+
+TextField {
+    padding: 10; background-color: gainsboro;
+    border-radius: 20; color: #ffffff; font-size: 17; vertical-align: middle; border-color: white;   
+}

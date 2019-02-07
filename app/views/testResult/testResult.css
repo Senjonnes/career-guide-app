@@ -1,0 +1,43 @@
+@import "nativescript-theme-core/css/sky.css";
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+  }
+
+.testPage {
+    border-radius: 20;
+    color: black;
+    background-image: url("~/images/dest.png"), image-set(fill);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+}
+
+.start_img {
+    height: 100px;
+    width: 100px;
+}
+.si-gi {
+    margin-top: 10;
+    margin-left: -40;
+    font-size: 24px;
+    margin-bottom: 20;
+    color: blue;
+}
+
+.buttons {
+    margin: 10; padding: 5; background-color: transparent;
+    color: rgb(73, 73, 226); font-size: 16; vertical-align: middle;
+    width: 80%;
+    animation-name: fadeIn;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-delay: 1s;
+}
+
+.follow {
+    font-size: 40px;
+    color: red;
+    font-family: GreatVibes-Regular;
+}

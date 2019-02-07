@@ -1,0 +1,53 @@
+@import "nativescript-theme-core/css/sky.css";
+
+
+.testPage {
+    border-radius: 20;
+    color: black;
+}
+
+.start_img {
+    height: 100px;
+    width: 100px;
+}
+.si-gi {
+    margin-top: 3%;
+    margin-right: 10%;
+    font-size: 24px;
+    color: blue;
+}
+
+.buttons {
+    margin: 10; 
+    background-color: rgb(238, 98, 122);
+    border-radius: 30;
+    color: #ffffff;
+    width: 30%; 
+    padding: 0;
+}
+
+.buttons:highlighted{
+    background-color:gray;
+}
+
+.instructions {
+    padding-left: 20;
+    padding-right: 20;
+    font-size: 13px;
+}
+
+.serialNo {
+    font-size: 17px;
+    background-color: dodgerblue;
+    border-radius: 50%;
+    text-align: center;
+    height: 11%;
+    width: 10%;
+    margin-bottom: 9%;
+    padding: 5%;
+    color: white;
+}
+
+.text {
+    margin-left: 3%;
+}

@@ -1,0 +1,37 @@
+{
+  "_from": "icomoon",
+  "_id": "icomoon@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-fUwjVZe0krgS/8hMFd6RB/I+IB4=",
+  "_location": "/icomoon",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "icomoon",
+    "name": "icomoon",
+    "escapedName": "icomoon",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/icomoon/-/icomoon-1.0.0.tgz",
+  "_shasum": "7d4c235597b492b812ffc84c15de9107f23e201e",
+  "_spec": "icomoon",
+  "_where": "C:\\Users\\Odeyemi Kehinde\\Career Guidance",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "icon-font",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "icomoon",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

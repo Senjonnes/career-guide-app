@@ -1,0 +1,26 @@
+<Page loaded="loaded" unloaded="pageUnloaded" actionBarHidden="true" class="page">
+    <ActionBar title="Career Guidance" class="action-bar"></ActionBar>
+    <StackLayout>
+        <Button class="skip" text="SKIP >>" textWrap="true" horizontalAlignment="right" textAlignment="left" tap="skip"></Button>
+        <Image src="~/images/project_logo.png" horizontalAlignment="center"/>
+
+        <StackLayout class="signin">
+            <GridLayout rows="auto, auto, auto">
+                <StackLayout row="0" class="entry">
+                    <TextField isEnabled="{{ !busy }}" class="input" hint="Email Address or Username" text="{{ email }}" color="gray" keyboardType="email" autocorrect="false" autocapitalizationType="none"/>
+                    <TextField isEnabled="{{ !busy }}" class="input" text="{{ password }}" color="gray" hint="Password" secure="true"/>
+                </StackLayout>
+
+                <Button row="1" isEnabled="{{ !busy }}" text="Sign in" class="btn btn-primary" id="email" tap="signIn"/>
+                <ActivityIndicator rowSpan="2" busy="{{ busy }}" width="60" height="60" color="skyblue"></ActivityIndicator>
+            </GridLayout>
+
+
+            <GridLayout rows="*" columns="*, auto" horizontalAlignment="center">
+                <Label text="Don't have an account?" row="0" col="0" class="link" paddingTop="5"/>
+                <Label text="Create Account" row="0" col="1" class="link" tap="create" color="blue" fontSize="20"/>
+            </GridLayout>
+        </StackLayout>
+
+    </StackLayout>
+</Page>

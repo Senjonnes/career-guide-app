@@ -1,0 +1,24 @@
+<Page loaded="loaded" unloaded="pageUnloaded" actionBarHidden="true" class="page">
+    <ActionBar title="Create Account" class="action-bar"></ActionBar>
+    <StackLayout>
+        <Button class="skip" text="SKIP >>" textWrap="true" horizontalAlignment="right" textAlignment="left" tap="skip"></Button>
+        <Image src="~/images/project_logo.png" horizontalAlignment="center"/>
+        <Label class="up" text="SIGN ME UP" color="white" horizontalAlignment="center"/>
+        <StackLayout class="signup">
+            <GridLayout rows="auto, auto, auto">
+                <StackLayout row="0" class="entry">
+                    <TextField isEnabled="{{ !busy }}" class="input" hint="Username" text="{{ username }}" color="gray"/>
+                    <TextField isEnabled="{{ !busy }}" class="input" hint="Email Address (Optional)" text="{{ email }}" color="gray" keyboardType="email" autocorrect="{{busy}}" autocapitalizationType="none"/>
+                    <TextField isEnabled="{{ !busy }}" class="input" hint="Password" text="{{ password }}" color="gray" secure="true"/>
+                    <TextField isEnabled="{{ !busy }}" class="input" hint="Confirm Password" text="{{ confirmPassword }}" color="gray" secure="true"/>
+                </StackLayout>
+                <ActivityIndicator rowSpan="1" busy="{{ busy }}" width="60" height="60" color="skyblue"></ActivityIndicator>
+                
+                <Button row="2" text="Signup" class="btn btn-primary" tap="continue" isEnabled="{{ !busy }}"/>
+            </GridLayout>
+        </StackLayout>
+        <DockLayout height="100%" width="100%">
+            <Button text="<< Back to Login" dock="bottom" class="undo" tap="undo"/>
+        </DockLayout>
+    </StackLayout>
+</Page>

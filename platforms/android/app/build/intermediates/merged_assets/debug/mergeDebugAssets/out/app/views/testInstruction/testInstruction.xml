@@ -1,0 +1,38 @@
+<Page loaded="pageLoaded" unloaded="pageUnloaded" actionBarHidden="true" id="page">
+    <ActionBar title="Career Guidance" class="action-bar"></ActionBar>
+    <StackLayout color="black" backgroundColor="white" height="65%" width="90%" horizontalAlignment="center" class="testPage">
+        <GridLayout rows="auto, auto" columns="auto, *">
+            <Image row="0" colSpan="0" class="start_img" src="~/images/cg.png"/>
+            <Label row="0" col="1" text="INSTRUCTIONS" horizontalAlignment="center" class="si-gi"/>
+        </GridLayout>
+        <StackLayout class="hr-light m-10" width="98%" marginTop="-4"></StackLayout>
+        <GridLayout rows="*, *, *, *, *" columns="*, 8*" class="instructions" height="70%">
+            <Label row="0" col="0" text="1" class="serialNo"/>
+            <StackLayout row="0" col="1" class="text">
+                <Label textWrap="true" text="The test contains 20 questions. Please select the situation which suits you the most."/>
+                <StackLayout class="hr-light m-10"></StackLayout>
+            </StackLayout>
+            <Label row="1" col="0" text="2" class="serialNo"/>
+            <StackLayout row="1" col="1" class="text">
+                <Label textWrap="true" text="Choose the option wisely, as you can't go back to previous questions."/>
+                <StackLayout class="hr-light m-10"></StackLayout>
+            </StackLayout>
+            <Label row="2" col="0" text="3" class="serialNo"/>
+            <StackLayout row="2" col="1" class="text">
+                <Label textWrap="true" text="Select the options which describes how you are at the present and not how you think you should be."/>
+                <StackLayout class="hr-light m-10"></StackLayout>
+            </StackLayout>
+            <Label row="3" col="0" text="4" class="serialNo"/>
+            <StackLayout row="3" col="1" class="text">
+                <Label textWrap="true" text="Take your time to complete the test and answer as close as possible to reality as there is no Time limit."/>
+                <StackLayout class="hr-light m-10"></StackLayout>
+            </StackLayout>
+            <Label row="4" col="0" text="5" class="serialNo"/>
+            <StackLayout row="4" col="1" class="text">
+                <Label textWrap="true" text="There is no negative or positive marking for any question."/>
+                <StackLayout class="hr-light m-10"></StackLayout>
+            </StackLayout>
+        </GridLayout>
+        <Button class="buttons" text="Start Test" tap="takeTest"/>                        
+    </StackLayout>
+</Page>

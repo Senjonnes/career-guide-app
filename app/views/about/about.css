@@ -1,0 +1,40 @@
+
+.about {
+    border-radius: 20;
+    color: gray;
+}
+
+.stack {
+    padding: 10;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 5;
+}
+
+.body {
+    text-align: center;
+    font-size: 14;
+    line-height: 5px;
+}
+
+.team {
+    margin-top: 15;
+    font-size: 20px;
+}
+
+.name {
+    line-height: 10px;
+    text-align: center;
+}
+
+.right {
+    text-align: center;
+    font-size: 15;
+    margin-top: 20;
+    margin-bottom: 20;
+    color: blue;
+}

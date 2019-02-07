@@ -1,0 +1,34 @@
+<Page loaded="pageLoaded" unloaded="pageUnloaded" actionBarHidden="true" id="page">
+    <ActionBar title="Career Guidance" class="action-bar"></ActionBar>
+    <GridLayout rows="auto, auto" verticalAlignment="center">
+        <StackLayout row="0" backgroundColor="white" height="80%" width="90%" horizontalAlignment="center" class="testPage">
+            <GridLayout rows="auto" columns="auto, *">
+                <Image row="0" colSpan="0" class="start_img" src="~/images/cg.png"/>
+                <Label row="0" col="1" text="YOUR CAREER PATH" horizontalAlignment="center" class="si-gi"/>
+            </GridLayout>
+            <StackLayout class="hr-light m-10" width="98%" marginTop="-2"></StackLayout>
+            <ScrollView>
+                <StackLayout>
+                    <GridLayout rows="*, *" columns="*">
+                        <Label row="0" colSpan="0" text="{{ message }}" width="50%" class="message" textAlignment="center" fontSize="54"/>
+                        <StackLayout row="1" col="0">
+                            <Label text="{{ vulga }}" textAlignment="center" backgroundColor="rgb(0, 73, 182)" width="60%" class="message2" fontSize="16" color="white"/>
+                        </StackLayout>
+                    </GridLayout>
+                    <Label text="DESCRIPTION" class="description"/>
+                    <Label text="{{ personalityDescription }}" class="personalityDescription" textWrap="true"/>
+                    <Label text="STRENGTHS" class="strength"/>
+                    <Label text="{{ personalityStrength }}" class="body" textWrap="true"/>
+                    <Label text="WEAKNESSES" class="weakness"/>
+                    <Label text="{{ personalityWeakness }}" class="body" textWrap="true"/>
+                    <Label text="{{ careers }}" class="career"/>
+                    <Label text="{{ personalityCareer }}" class="body" textWrap="true"/>
+                    <StackLayout id="extra"></StackLayout>
+                    <Button class="buttons" text="HOME" tap="home"/>
+                    <Button class="buttons" text="TAKE TEST AGAIN" tap="again"/>
+                </StackLayout>
+            </ScrollView>
+        </StackLayout>
+        <ActivityIndicator rowSpan="1" busy="{{ busy }}" width="60" height="60" color="skyblue"></ActivityIndicator>
+    </GridLayout>
+</Page>
